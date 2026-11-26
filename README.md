@@ -17,4 +17,4 @@ Jika anda mempunyai playlist untuk dipadankan dengan data XMLTV EPG ini, tambahk
 
 ### Contoh
 ```m3u
-#EXTINF:-1 tvg-id="101",TV1
+#EXTINF:-1 tvg-id="example"
